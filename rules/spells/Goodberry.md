@@ -1,6 +1,6 @@
 | Level | Components | Casting time | Con | Ritual | Duration | Range |
 |--|--|--|--|--|--|--|
-|1|S, M| 1 action | - | - | Instantaneous | Touch |
+|1|V, S, M| 1 action | - | - | Instantaneous | Touch |
 
 **Material**: A sprig of mistletoe (Побег омелы)
 
