@@ -1,9 +1,10 @@
 
-1 уровень, следопыт, 2400 опыта
+4 уровень, следопыт, 4000 опыта
 # Снаряжение
 Всего 79.24 фунта (максимум = 195)
 ## Боевое
 * Кожаный доспех (КБ 11, вес 10 фунтов)
+* Наручи защиты (+2 КБ)
 * 2х короткий меч (1к6, ловкость, 2 фунта)
 * Длинный лук (1к8, 150/600, 2 фунта)
 * 20х стрела
@@ -19,7 +20,8 @@
 
 # Деньги
 Каждый по 0.02 фунта
-* 512х золотой
+* 509 золотой
+* 5 серебрянных
 
 # Умения
 ## Предпочтительный противник
@@ -64,12 +66,15 @@
 	* **+6** = PB + #WIS 
 
 ### Список
-* [[Ensnaring Strike]]
-* [[Goodberry]]
-* [[Hail of Thorns]]
-* [[Disguise Self]] - от архетипа "Сумрачный охотник"
-* [[Speak with Animals]] - от умения "Изначальное чутьё"
+* [Goodberry](https://dnd.su/spells/78-goodberry/)
+	* Ветка омелы
+* [Hail of Thorns](https://dnd.su/spells/50-hail_of_thorns/)
+* [Hunter's mark](https://dnd.su/spells/164-hunter_s_mark/)
+* [Diguise self](https://dnd.su/spells/157-disguise_self/) — от архетипа "Сумрачный охотник"
+* [Speak with Animals](https://dnd.su/spells/292-speak_with_animals/) - от умения "Изначальное чутьё"
 	* Один раз в [[Отдых#Длинный]] бесплатно
+* [Entangle](https://dnd.su/spells/211-entangle/) — дополнительное заклинание следопыта
+* [Searing smite](https://dnd.su/spells/224-searing_smite/) — дополнительное заклинание следопыта
 
 ### Ячейки
 
